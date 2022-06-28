@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelStricker
-- 👀 I’m interested in Marketing, Data Analytics, Visualization, Social Trends, wife, daughters, dog, nation, world, God
+- 👀 I’m interested in Marketing, Data Analytics, Visualization, Social Trends, family, dog, singing
 - 🌱 I’m currently learning SQL, R, Python, Tableau
 - 💞️ I’m looking to collaborate on junior projects
 - 📫 How to reach me msdesign@comcast.net
